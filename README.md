@@ -14,7 +14,7 @@ Query example: ./FetchCbioportal.py getTypesOfCancer
 Query format: ./FetchCbioportal.py [cmd]
  	cmd = getTypesOfCancer
 
-Get All Case Lists for a Specific Cancer Study
+Get All Case Lists for a Specific Cancer Study :
 ----------------------------------------------
 Query example: ./FetchCbioportal.py getCaseLists
 Query format: ./FetchCbioportal.py [cmd]
